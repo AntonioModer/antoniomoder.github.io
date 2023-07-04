@@ -5,6 +5,7 @@
 [![Reddit](/Resources/reddit.png)](https://www.reddit.com/user/AntonioModer)
 [![uid.me](/Resources/email.png)](http://uid.me/antoniomoder)
 [![Mail](/Resources/email.png)](mailto:mant.base@yandex.by)
+![Donate](/Resources/email.png)
 
 ___
 
