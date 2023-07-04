@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
-title: AntonioModer Hub
+title: AntonioModer
 description: Indie game developer
 logo: /Resources/logo.png
 show_downloads: false
