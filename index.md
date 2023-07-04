@@ -11,5 +11,4 @@ ___
 
 [![Itchio](/Resources/itchio.png)](https://antoniomoder.itch.io/chaosglitch)
 
-![ChAoS gLiTcH logo](/Resources/ChAoSgLiTcH/logo.jpg)
 ![ChAoS gLiTcH gif](/Resources/ChAoSgLiTcH/6c7fc0d1b6bf4c1b992b67447a48d096.gif)
