@@ -1,8 +1,9 @@
-[![Itchio](/Resources/itchio.png)](https://antoniomoder.itch.io)
+[![Itch.io](/Resources/itchio.png)](https://antoniomoder.itch.io)
 [![Twitter](/Resources/twitter.png)](https://twitter.com/AntonioModer)
 [![YouTube](/Resources/youtube.png)](https://youtube.com/@AntonioModer)
 [![VK](/Resources/vk.png)](https://vk.com/antoniomodergamedev)
 [![Reddit](/Resources/reddit.png)](https://www.reddit.com/user/AntonioModer)
+[![uid.me](/Resources/email.png)](http://uid.me/antoniomoder)
 [![Mail](/Resources/email.png)](mailto:mant.base@yandex.by)
 
 ___
