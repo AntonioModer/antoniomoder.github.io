@@ -3,7 +3,7 @@
 [![YouTube](/Resources/youtube.png)](https://youtube.com/@AntonioModer)
 [![VK](/Resources/vk.png)](https://vk.com/antoniomodergamedev)
 [![Reddit](/Resources/reddit.png)](https://www.reddit.com/user/AntonioModer)
-[![uid.me](http://uid.me/img/header-logo-white.svg)](http://uid.me/antoniomoder)
+[![uid.me](/Resources/uid.me_logo-black.png)](http://uid.me/antoniomoder)
 [![Mail](/Resources/email.png)](mailto:mant.base@yandex.by)
 
 ___
