@@ -5,7 +5,7 @@
 [![Reddit](/Resources/reddit.png)](https://www.reddit.com/user/AntonioModer)
 [![uid.me](/Resources/uid.me_logo-black.png)](http://uid.me/antoniomoder)
 [![Mail](/Resources/email.png)](mailto:mant.base@yandex.by)
-[![DA](/Resources/email.png)](https://www.donationalerts.com/r/antoniomoder)
+[![DA](/Resources/DA_Alert_Color.png)](https://www.donationalerts.com/r/antoniomoder)
 
 ___
 
