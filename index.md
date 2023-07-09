@@ -14,4 +14,4 @@ ___
 [![Itchio](/Resources/itchio.png)](https://antoniomoder.itch.io/chaosglitch)
 
 ![ChAoS gLiTcH gif](/Resources/ChAoSgLiTcH/6c7fc0d1b6bf4c1b992b67447a48d096.gif)
-![Обложка vkplay](https://github.com/AntonioModer/antoniomoder.github.io/assets/3039538/548fd5e9-e4ce-4a14-aed6-9b4d2c8c75a9)
+![logo](https://github.com/AntonioModer/antoniomoder.github.io/assets/3039538/3ee67f27-3eaa-45de-a29e-e9a7e6c6d874)
