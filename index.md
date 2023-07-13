@@ -14,6 +14,7 @@ ___
 [![Itchio](/Resources/itchio.png)](https://antoniomoder.itch.io/chaosglitch)
 
 ![ChAoS gLiTcH gif](/Resources/ChAoSgLiTcH/6c7fc0d1b6bf4c1b992b67447a48d096.gif)
+
 <video poster="https://github.com/AntonioModer/antoniomoder.github.io/assets/3039538/99fe5dff-abe1-47dc-8cee-89e25a9ace87" muted autoplay loop>
   <source src="https://github.com/AntonioModer/antoniomoder.github.io/assets/3039538/f9c41efa-c2f2-44c9-9b09-18686a1cc589">
 </video>
