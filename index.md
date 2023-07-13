@@ -22,4 +22,4 @@ ___
   <source src="https://github.com/AntonioModer/antoniomoder.github.io/assets/3039538/f9c41efa-c2f2-44c9-9b09-18686a1cc589">
 </video>
 
-![ChAoS gLiTcH DEMO trailer](https://youtu.be/1uSmlKnq0dw)
+[![ChAoS gLiTcH DEMO trailer](<img src="https://i9.ytimg.com/vi/1uSmlKnq0dw/mqdefault.jpg?sqp=CNS8wKUG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBMgHih_MA8=&rs=AOn4CLCuoC0Io7pWGNYSeY6rr9lw-KrUAA" alt="ChAoS gLiTcH logo" width="480" height="270">)](https://youtu.be/1uSmlKnq0dw)
