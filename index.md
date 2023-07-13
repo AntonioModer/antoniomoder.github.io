@@ -12,7 +12,7 @@ ___
 # ChAoS gLiTcH
 
 [![Itchio](/Resources/itchio.png)](https://antoniomoder.itch.io/chaosglitch)
-
+[![Itchio](/Resources/youtube.png)](https://youtube.com/playlist?list=PLdon7bPQtTKE_x4Pbx0zJ07MjS4FMT5Xw)
 <!-- ![logo](https://github.com/AntonioModer/antoniomoder.github.io/assets/3039538/3ee67f27-3eaa-45de-a29e-e9a7e6c6d874) -->
 <!-- <img src="https://github.com/AntonioModer/antoniomoder.github.io/assets/3039538/3ee67f27-3eaa-45de-a29e-e9a7e6c6d874" alt="ChAoS gLiTcH logo" width="480" height="270"> -->
 <!-- ![ChAoS gLiTcH gif](/Resources/ChAoSgLiTcH/6c7fc0d1b6bf4c1b992b67447a48d096.gif) -->
