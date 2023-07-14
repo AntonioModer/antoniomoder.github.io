@@ -9,9 +9,7 @@
 
 ___
 
-# ChAoS gLiTcH
-
-[![Itchio](/Resources/youtube.png)](https://youtube.com/playlist?list=PLdon7bPQtTKE_x4Pbx0zJ07MjS4FMT5Xw)
+# ChAoS gLiTcH          [![Itchio](/Resources/youtube.png)](https://youtube.com/playlist?list=PLdon7bPQtTKE_x4Pbx0zJ07MjS4FMT5Xw)
 
 <iframe src="https://itch.io/embed/2008264" width="552" height="167" frameborder="0"><a href="https://antoniomoder.itch.io/chaosglitch">ChAoS gLiTcH by AntonioModer</a></iframe>
 
