@@ -13,7 +13,7 @@ ___
 
 [![Itchio](/Resources/youtube.png)](https://youtube.com/playlist?list=PLdon7bPQtTKE_x4Pbx0zJ07MjS4FMT5Xw)
 
-<iframe src="https://itch.io/embed/2008264" width="500" height="167" frameborder="0"><a href="https://antoniomoder.itch.io/chaosglitch">ChAoS gLiTcH by AntonioModer</a></iframe>
+<iframe src="https://itch.io/embed/2008264" width="552" height="167" frameborder="0"><a href="https://antoniomoder.itch.io/chaosglitch">ChAoS gLiTcH by AntonioModer</a></iframe>
 
 <!-- ![logo](https://github.com/AntonioModer/antoniomoder.github.io/assets/3039538/3ee67f27-3eaa-45de-a29e-e9a7e6c6d874) -->
 <!-- <img src="https://github.com/AntonioModer/antoniomoder.github.io/assets/3039538/3ee67f27-3eaa-45de-a29e-e9a7e6c6d874" alt="ChAoS gLiTcH logo" width="480" height="270"> -->
