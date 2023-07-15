@@ -1,6 +1,5 @@
 [![Itch.io](/Resources/itchio.png)](https://antoniomoder.itch.io)
 [![Twitter](/Resources/twitter.png)](https://twitter.com/AntonioModer)
-[![YouTube](/Resources/youtube.png)](https://youtube.com/@AntonioModer)
 [![VK](/Resources/vk.png)](https://vk.com/antoniomodergamedev)
 
 ___
